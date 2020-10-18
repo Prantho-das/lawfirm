@@ -1,0 +1,14 @@
+@mixin ctext {
+    font-family: Lato;
+    font-style: italic;
+    margin-top: 1rem;
+}
+@mixin cbtn {
+  border: none;
+  padding: 1rem 5rem;
+  border-radius: 25px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: #4386fc;
+  color: white;
+}

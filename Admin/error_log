@@ -1,0 +1,4 @@
+[23-Sep-2020 15:53:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/Admin/index.php on line 6
+[23-Sep-2020 15:53:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/Admin/index.php on line 6
+[23-Sep-2020 15:55:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/Admin/index.php on line 6
+[23-Sep-2020 15:56:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/Admin/index.php on line 6

@@ -1,0 +1,8 @@
+@media only screen and (max-width: 575px) {
+    .btn_list{
+     grid-template-columns: auto !important;
+}
+.background{
+  background-image: linear-gradient(#f3b757,#f3b757) !important;
+}
+}

@@ -1,0 +1,383 @@
+html {
+  font-size: 63.85%;
+}
+
+table {
+  font-size: 1.6rem;
+}
+
+.loader {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../img/lg.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: yellowgreen;
+}
+
+.card-header {
+  background: 0 !important;
+  color: white;
+}
+
+.background, .ulogin, .Llogin, .lawreg {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#00000048), to(#00000050)), url(../img/Supreme-Court.jpg);
+  background-image: linear-gradient(#00000048, #00000050), url(../img/Supreme-Court.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.cbtn {
+  background-color: #4386fc;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  min-width: 150px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.cbtn:hover {
+  color: white !important;
+}
+
+.btn_list {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  grid-row-gap: 1rem;
+  grid-column-gap: 1rem;
+  margin-top: -6rem;
+}
+
+.background, .ulogin, .Llogin, .lawreg {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.logo {
+  height: 15rem;
+  width: 15rem;
+  margin-bottom: none !important;
+  border-radius: 50%;
+}
+
+.clogo {
+  height: 10rem;
+  width: 10rem;
+  margin-top: 1rem;
+  margin-bottom: none !important;
+  border-radius: 50%;
+}
+
+.logo_list {
+  font-family: Lato;
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+.modal input {
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.modal input::-webkit-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.modal input:-ms-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.modal input::-ms-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.modal input::placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.modal span {
+  font-size: 2rem;
+  margin: 2rem 1.5rem 0rem 0rem;
+}
+
+.card button {
+  font-size: 1.8rem;
+}
+
+.ulogin {
+  background-image: url(../img/img2.jfif);
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.ulogin input {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-radius: 25px;
+}
+
+.ulogin input::-webkit-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.ulogin input:-ms-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.ulogin input::-ms-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.ulogin input::placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.ulogin .clogo_text {
+  font-family: Lato;
+  font-style: italic;
+  margin-top: 1rem;
+  color: white;
+}
+
+.ulogin button {
+  border: none;
+  padding: 1rem 5rem;
+  border-radius: 25px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: #4386fc;
+  color: white;
+}
+
+.Llogin {
+  background-image: url(../img/img3.jpg);
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.Llogin input {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-radius: 25px;
+}
+
+.Llogin input::-webkit-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.Llogin input:-ms-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.Llogin input::-ms-input-placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.Llogin input::placeholder {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.Llogin .clogo_text {
+  font-family: Lato;
+  font-style: italic;
+  margin-top: 1rem;
+  color: white;
+}
+
+.Llogin button {
+  border: none;
+  padding: 1rem 5rem;
+  border-radius: 25px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: #4386fc;
+  color: white;
+}
+
+.lawreg {
+  background-image: url(../img/img2.jfif);
+  padding: 2.9rem 0rem;
+  height: -webkit-fit-content !important;
+  height: -moz-fit-content !important;
+  height: fit-content !important;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.lawreg #select {
+  height: 4rem;
+  border-radius: 25px;
+  font-size: 1.4rem;
+  padding-left: 2rem;
+}
+
+.lawreg input {
+  margin-bottom: 0.7rem;
+  padding: 0.9rem;
+  border-radius: 25px;
+  font-size: 1.4rem;
+}
+
+.lawreg input::-webkit-input-placeholder {
+  font-size: 1.3rem;
+  padding-left: 1.4rem;
+  font-weight: 500;
+}
+
+.lawreg input:-ms-input-placeholder {
+  font-size: 1.3rem;
+  padding-left: 1.4rem;
+  font-weight: 500;
+}
+
+.lawreg input::-ms-input-placeholder {
+  font-size: 1.3rem;
+  padding-left: 1.4rem;
+  font-weight: 500;
+}
+
+.lawreg input::placeholder {
+  font-size: 1.3rem;
+  padding-left: 1.4rem;
+  font-weight: 500;
+}
+
+.lawreg .form-check-input[type=checkbox] {
+  padding: 0.3rem;
+}
+
+.lawreg label.form-label {
+  font-size: 1.3rem;
+  color: white;
+}
+
+.lawreg .clogo_text {
+  font-family: Lato;
+  font-style: italic;
+  margin-top: 1rem;
+  color: white;
+}
+
+.lawreg button {
+  border: none;
+  padding: 1rem 5rem;
+  border-radius: 25px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: #4386fc;
+  color: white;
+  padding: 0.7rem 4rem;
+}
+
+.intro_sec {
+  font-family: Roboto;
+}
+
+.intro_sec label {
+  font-size: 1.2rem;
+}
+
+.intro_sec input {
+  padding: 1rem;
+}
+
+.intro_sec input::-webkit-input-placeholder {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.intro_sec input:-ms-input-placeholder {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.intro_sec input::-ms-input-placeholder {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.intro_sec input::placeholder {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.intro_sec #mainsel {
+  height: 3.7rem;
+  font-size: 1.2rem;
+}
+
+.intro_sec .finder button {
+  border: none;
+  padding: 1rem 5rem;
+  border-radius: 25px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: #4386fc;
+  color: white;
+  padding: 0.7rem 4rem;
+}
+
+.intro_sec .img, .intro_sec .Limg {
+  height: 7rem;
+  width: 7rem;
+  border-radius: 50%;
+  margin-right: 1.5rem;
+  font-family: Roboto !important;
+}
+
+.intro_sec .img img, .intro_sec .Limg img {
+  border-radius: 50%;
+}
+
+.intro_sec .Limg img {
+  border-radius: 0%;
+}
+
+@media only screen and (max-width: 575px) {
+  .btn_list {
+    -ms-grid-columns: auto !important;
+        grid-template-columns: auto !important;
+  }
+  .background, .ulogin, .Llogin, .lawreg {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f3b757), to(#f3b757)) !important;
+    background-image: linear-gradient(#f3b757, #f3b757) !important;
+  }
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,52 @@
+[24-Sep-2020 20:33:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/larajaha/lawfirm.larajahan.com/ajax/apaccept.php on line 13
+[24-Sep-2020 20:33:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/larajaha/lawfirm.larajahan.com/ajax/apaccept.php on line 13
+[24-Sep-2020 20:33:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/larajaha/lawfirm.larajahan.com/ajax/apaccept.php on line 13
+[24-Sep-2020 20:38:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/larajaha/lawfirm.larajahan.com/ajax/apaccept.php on line 13
+[28-Sep-2020 20:11:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:11:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:14:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:14:31 UTC] PHP Warning:  Division by zero in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 29
+[28-Sep-2020 20:15:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:15:32 UTC] PHP Warning:  Division by zero in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 29
+[28-Sep-2020 20:18:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:18:33 UTC] PHP Warning:  Division by zero in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 29
+[28-Sep-2020 20:28:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:28:25 UTC] PHP Warning:  Division by zero in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 29
+[28-Sep-2020 20:30:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:30:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 32
+[28-Sep-2020 20:30:31 UTC] PHP Warning:  Division by zero in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 34
+[28-Sep-2020 20:33:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:33:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 31
+[28-Sep-2020 20:33:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:33:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 31
+[28-Sep-2020 20:35:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:35:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 31
+[28-Sep-2020 20:37:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:37:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 31
+[28-Sep-2020 20:39:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:39:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:41:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:41:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:41:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:41:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:41:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:41:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:41:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:41:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:41:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:41:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:44:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:46:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:46:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:49:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:49:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:49:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 20:49:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 30
+[28-Sep-2020 20:57:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 19
+[28-Sep-2020 21:20:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php:32) in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 38
+[28-Sep-2020 21:21:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php:32) in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 38
+[28-Sep-2020 21:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php:32) in /home/larajaha/lawfirm.larajahan.com/ajax/ratingajax.php on line 38

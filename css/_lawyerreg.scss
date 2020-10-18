@@ -1,0 +1,40 @@
+.lawreg{
+    @extend .background;
+    background-image: url(../img/img2.jfif);
+    padding: 2.9rem 0rem;
+    height: fit-content !important;
+    display: grid;
+    place-items: center;
+    #select{
+    height: 4rem;
+    border-radius: 25px;
+    font-size: 1.4rem;
+    padding-left: 2rem;
+    }
+    input{
+        margin-bottom: 0.7rem;
+        padding: 0.9rem;
+        border-radius: 25px;
+        font-size: 1.4rem;
+        &::placeholder{
+            font-size: 1.3rem;
+            padding-left: 1.4rem;
+            font-weight: 500;
+        }
+    }
+    .form-check-input[type=checkbox] {
+        padding:0.3rem
+    }
+    label.form-label {
+        font-size: 1.3rem;
+        color:white
+    }
+    .clogo_text{
+        @include ctext;
+        color: white;
+    }
+    button{
+        @include cbtn;
+        padding: 0.7rem 4rem;
+    }
+}
